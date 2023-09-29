@@ -152,7 +152,7 @@ header .header__main .header__main__btn {
   header .header__main .Header__main__titel p {
     font-size: 15px;
     color: #ffffff;
-    opacity: 70%;
+    opacity: 0;
   }
   header .header__main .header__main__btn {
     padding: 11px 23px;
